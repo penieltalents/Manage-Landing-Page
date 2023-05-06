@@ -1274,6 +1274,10 @@ footer a {
         align-items: center;
     }
 
+    .side_nav_container ul a li {
+        font-size: 1.2em !important;
+    }
+
 }
 
 @media all and (max-width: 467px) {
