@@ -1295,6 +1295,7 @@ footer a {
 
     .third_section_right p {
         font-size: 1em;
+        font-size: 2.8vw !important;
     }
 }
 
