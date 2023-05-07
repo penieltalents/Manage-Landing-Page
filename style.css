@@ -541,7 +541,7 @@ footer a {
 
 @media all and (max-width) and (max-width : 600px) {}
 
-@media all and (max-width: 1100px) and (min-width: 600px) {
+@media all and (max-width: 900px) and (min-width: 600px) {
     #third_section p {
         font-size: 13px;
     }
@@ -716,12 +716,13 @@ footer a {
         background-color: darkred;
         background-color: white;
         border-radius: 15px;
+        height: 75vh;
     }
 
     .side_nav_container ul {
         align-content: center;
-        padding-top: 20px;
-        padding-bottom: 44px;
+        padding-top: 30px;
+        padding-bottom: 50px;
     }
 
     .side_nav_container li {
@@ -733,8 +734,16 @@ footer a {
         color: hsl(210, 1%, 27%);
         padding-left: 30vw;
         padding-right: 30vw;
-        margin-top: 28px;
+        margin-top: 38px;
         font-size: 1.8em;
+    }
+
+    .attribution_nav {
+        margin-top: 1.7em;
+    }
+
+    a.attribution_nav {
+        color: hsl(210, 1%, 27%);
     }
 
     .side_nav_container a li:hover {
@@ -1295,7 +1304,7 @@ footer a {
 
     .third_section_right p {
         font-size: 1em;
-        font-size: 2.8vw !important;
+        font-size: 2.9vw !important;
     }
 }
 
