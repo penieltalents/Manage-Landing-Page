@@ -541,9 +541,9 @@ footer a {
 
 @media all and (max-width) and (max-width : 600px) {}
 
-@media all and (max-width: 1100px) and (min-width: 650px) {
+@media all and (max-width: 1100px) and (min-width: 600px) {
     #third_section p {
-        font-size: 2vw;
+        font-size: 13px;
     }
 }
 
